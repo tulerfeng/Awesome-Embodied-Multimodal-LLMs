@@ -15,7 +15,7 @@ If you would like to include your paper or update any details (e.g., code urls, 
 - [Awesome-Embodied-Multimodal-LLMs](#Awesome-Embodied-Multimodal-LLMs)
   - [Overview](#Overview-of-Embodied-Multimodal-LLMs)
   - [Models](#Models)
-  - [Datasets & Benchmark](#Datasets & Benchmark)
+  - [Datasets & Benchmark](#Datasets-&-Benchmark)
 
 
 
