@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Awesome Embodied Multimodal LLMs <br> (Vison-Language-Action Models)</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
-    <img src=https://img.shields.io/github/stars/.svg?style=social >
+    <img src=https://img.shields.io/github/stars/tulerfeng/Awesome-Embodied-Multimodal-LLMs.svg?style=social >
 </div>
 
 This is a collection of research papers about Embodied Multimodal Large Language Models (VLA models).
